@@ -1,6 +1,6 @@
 {
   "name": "@wap/svg",
-  "version": "0.0.1-dev",
+  "version": "0.0.1",
   "description": "Web Asset Packs",
   "main": "lib/api.js",
   "types": "lib/api.d.ts",
