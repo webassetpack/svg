@@ -1,0 +1,13 @@
+node_modules
+._*
+.DS_Store
+package-lock.json
+coverage
+.nyc_output
+dist
+lib
+.vscode
+.*cache
+*.tsbuildinfo
+package-lock.json
+

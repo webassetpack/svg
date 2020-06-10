@@ -1,0 +1,19 @@
+{
+    "extends" : "./tsconfig.json",
+    "compilerOptions": {
+        "outDir": "./spec",
+        "declaration": false,
+        "sourceMap": false,
+        "module": "CommonJS",
+        "resolveJsonModule": true,
+        "esModuleInterop": true
+    },
+    "include": [
+        "**/*.ts"
+    ],
+    "exclude": [
+        "lib",
+        "node_modules",
+        "dist"
+    ]
+}
